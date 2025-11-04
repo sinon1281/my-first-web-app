@@ -19,12 +19,12 @@ li{
 /*ヘッダーロゴの処理*/
 .header-logo{
     float:left;
-    font-size: 48px;
-    padding: 20px 40px;
+    font-size: 32px;
+    padding: 10px 20px;
 }
 
 /*ヘッダーリストの処理*/
-.header-list{
+.header-list li{
     padding:33px 20px;
     float:left;
 }
