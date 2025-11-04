@@ -1,9 +1,6 @@
 stylesheet.css
 /*全体の文字フォント変更処理*/
 body,html{
-    margin: 0;
-    padding: 0;
-    height: 100%;
     font-family: 'Roboto', sans-serif;
 }
 /*リストの処理*/
@@ -35,8 +32,7 @@ li{
 /*メイン全体の処理*/
 .main{
     padding:100px 80px;
-    padding-bottom:30px;
-    min-height: calc(100vh - 90px - 90px) /* 画面の高さ - ヘッダー - フッター */
+    padding-bottom: 200px; /* フッターとの距離を広げる */
 }
 
 /*最初の紹介文*/
