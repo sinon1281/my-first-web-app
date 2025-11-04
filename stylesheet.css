@@ -32,6 +32,7 @@ li{
 /*メイン全体の処理*/
 .main{
     padding:100px 80px;
+    margin-bottom:30px;
 }
 
 /*最初の紹介文*/
