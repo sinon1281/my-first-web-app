@@ -59,11 +59,11 @@ li{
 .footer{
     background-color: #2f5167;
     color: #fff;
-    height: 30px;
+    height: 60px;
 }
 
 /*フッターロゴの処理*/
 .footer-logo{
     float:left;
-    font-size: 32px;
+    font-size: 20px;
 }
