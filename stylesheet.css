@@ -1,6 +1,9 @@
 stylesheet.css
 /*全体の文字フォント変更処理*/
-body{
+body,html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
     font-family: 'Roboto', sans-serif;
 }
 /*リストの処理*/
