@@ -13,7 +13,8 @@ li{
     background-color: #26d0c9;
     color: #fff;
     float:left;
-    height: 90px;
+    width:100%;
+    text-align: center;    /* 中央揃え */
 }
 
 /*ヘッダーロゴの処理*/
@@ -35,10 +36,10 @@ li{
 
 /*最初の紹介文*/
 .copy-container h1{
-    font-size: 120px;
+    font-size: 80px;
 }
 .copy-container h2{
-    font-size: 60pxpx;
+    font-size: 40pxpx;
 }
 
 /*コンテンツの全体処理*/
